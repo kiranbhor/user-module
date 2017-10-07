@@ -1,7 +1,7 @@
 {
   "name": "accunity/user-module",
   "type": "asgard-module",
-  "description": "User module for AsgardCMS. Handles the authentication and authorisation as well as the user management.",
+  "description": "User module for AsgardCMS. Handles the authentication and authorisation as well as the user management.(forked)",
   "keywords": [
     "asgardcms",
     "user",
@@ -11,8 +11,8 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Nicolas Widart",
-      "email": "info@asgardcms.com",
+      "name": "Kiran Bhor",
+      "email": "kiranbhor05@gmail.com",
       "role": "Developer"
     }
   ],
